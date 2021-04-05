@@ -14,7 +14,7 @@
 
 [Markdown Constructs Used](#markdown-constructs-used)
 
-[README](../README.md)
+[text](text.txt)
 
 ## Brief Overview of Programming Experience
 
